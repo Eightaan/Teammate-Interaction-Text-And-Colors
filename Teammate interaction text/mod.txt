@@ -1,0 +1,13 @@
+{
+	"name" : "Teammate interaction text",
+	"description" : "Adds teammate interaction text and various color changes to equipment and so on.",
+	"author" : "Undeadsewer, Eightan",
+	"version" : "1.0",
+	"blt_version" : 2,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"hooks" : 
+	[  
+		{"hook_id" : "lib/managers/hud/hudteammate", "script_path" : "mod.lua"}
+	]
+}
